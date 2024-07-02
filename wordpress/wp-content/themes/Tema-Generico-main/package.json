@@ -1,0 +1,15 @@
+{
+  "name": "tema-generico-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass --watch style/scss -o style/css",
+    "build": "node-sass style/scss -o style/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}

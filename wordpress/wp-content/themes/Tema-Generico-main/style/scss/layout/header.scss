@@ -1,0 +1,46 @@
+/*Header Styles*/
+
+.my-main-menu {
+    width: 90%;
+    margin: 2rem 5%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(134, 113, 82, 0.13);
+    color:#FFFFFF;
+    padding: 1rem 2rem;
+    border-radius:10px;
+    position: flixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+
+    .site-title{
+        display: inline-flex;
+        color:#FFFFFF;
+    }
+}
+
+.custom-logo{
+    width: 4rem;
+}
+
+.my-navbar{
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+
+    li{
+        list-style: none;
+
+        a{
+            color:#9c7d62;
+        }
+
+    }
+
+}
+

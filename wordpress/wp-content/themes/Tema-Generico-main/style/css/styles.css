@@ -1,0 +1,8 @@
+/** Header Styles*/
+@import url(layout/header.css);
+/** General Styles*/
+@import url(gobal.css);
+/** Page Blog */
+@import url(pages/blog.css);
+/** Page Trabajos*/
+@import url(pages/trabajos.css);

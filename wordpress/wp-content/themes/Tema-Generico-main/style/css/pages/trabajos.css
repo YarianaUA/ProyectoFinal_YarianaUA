@@ -1,0 +1,10 @@
+/** Page Trabajos */
+.trabajo-card {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  width: 420px;
+  border: 1px solid #B69D78;
+  margin: 80px;
+  padding: 10px;
+  align-items: center; }
